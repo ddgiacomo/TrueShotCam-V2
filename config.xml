@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.trueshotcam" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.trueshotcamv2" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TSC</name>
     <description>
-        True Shot CAM
+        True Shot CAM v2
     </description>
     <author email="trueshotcam@gmail.com" href="http://trueshotcam.com">
         RD3 Solutions
