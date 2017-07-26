@@ -1,2 +1,2 @@
-# TrueShotCam-V2
-True Shot Cam Verion 2
+# TrueShotCam
+True Shot CAM
