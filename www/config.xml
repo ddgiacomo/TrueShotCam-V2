@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.trueshotcam"
-        version   = "1.0.0">
+        id        = "com.trueshotcamv2"
+        version   = "2.0.0">
 
     <name>TSC-1</name>
 
     <description>
-        True Shot CAM
+        True Shot CAM V2
     </description>
 
     <author email="rd3solutions@gmail.com">
